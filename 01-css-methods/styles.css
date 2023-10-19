@@ -1,0 +1,11 @@
+
+
+.external {
+    color: white;
+    border-style:solid ;
+    border-color: red;
+    background-color: red;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
